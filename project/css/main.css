@@ -1,20 +1,25 @@
 
 body {
-  background-color: #d0e4fe;
+  background-color: #abafb4b4;
   text-align: center;
 }
 
 h1 {
-  font-family: 'Lobster', cursive;
+  font-family: 'Arial',;
   color: orange;
 }
 
 p {
-  font-family: "Courier New";
-  font-size: 30px;
+  font-family: "Arial";
+  font-size: 25px;
 }
 
 #doge-image img {
   height: 140px;
   margin-top: 20px;
+}
+.page-header{
+  background-color: rgb(54, 54, 104);
+  margin-top: 0rem;
+  border: 0rem;
 }
