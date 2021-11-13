@@ -23,3 +23,10 @@ p {
   margin-top: 0rem;
   border: 0rem;
 }
+.nav-link{
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  font-size: 21px;
+  min-width: 15rem;
+  
+}
